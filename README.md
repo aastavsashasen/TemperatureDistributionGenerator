@@ -5,7 +5,11 @@ The second script creates a distribution for an arbitary point test that may hav
 
 ## Images
 
-
+Results of Script 1 = "SENTempDistGen1"
+![script1_4](https://user-images.githubusercontent.com/37192765/55549474-88eb7d00-5708-11e9-8ef9-193fac94163b.jpg)
+![script1_3](https://user-images.githubusercontent.com/37192765/55549486-90128b00-5708-11e9-8344-e3bf2127c617.jpg)
+![script1_2](https://user-images.githubusercontent.com/37192765/55549493-93a61200-5708-11e9-9d12-a24897678ced.jpg)
+![script1_1](https://user-images.githubusercontent.com/37192765/55549496-96086c00-5708-11e9-8013-31032049d3c1.jpg)
 
 ### Set-Up
 
